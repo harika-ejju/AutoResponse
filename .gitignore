@@ -1,0 +1,78 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+ENV/
+.venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# PyInstaller
+*.spec
+
+# VSCode settings
+.vscode/
+
+# macOS metadata
+.DS_Store
+
+# Logs
+*.log
+
+# Environment variables
+.env
+.env.*
+
+# Streamlit cache
+.streamlit/
+
+# mypy
+.mypy_cache/
+
+# Pytest
+.pytest_cache/
+
+# Docker
+*.pid
+
+# Coverage reports
+htmlcov/
+coverage.xml
+*.cover
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Unit test / test databases
+*.sqlite3
+
+# Local files
+*.local
+*.bak
+*.tmp
+
+# Large files (optional - for models, etc.)
+*.pt
+*.h5
+*.dylib
+
+# Node (if you're using Tailwind or npm)
+node_modules/
+
+# Additional cache directories
+cache/
+.cache/
+
+# Model files directory
+models/
+
+# Data directory
+data/
